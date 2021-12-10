@@ -93,7 +93,7 @@ img {
 }
 
 .project {
-  box-shadow: 0 0px 1px 0 rgb(0 0 0 / 40%);  
+  box-shadow: 0 0px 1px 0 rgb(0 0 0 / 40%);
   width: 100%;
 }
 
@@ -117,7 +117,7 @@ img {
 
 footer div {
   height: 100%;
-    font-family: '', sans-serif;
+    font-family: 'Lora', sans-serif;
     font-size: 14px;
     display: flex;
     align-content: center;
